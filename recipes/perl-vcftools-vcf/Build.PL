@@ -9,6 +9,7 @@ Module::Build->new(
                       'tab-to-vcf',
                       'vcf-annotate',
                       'vcf-compare',
+                      'vcf-convert',
                       'vcf-concat',
                       'vcf-consensus',
                       'vcf-contrast',
